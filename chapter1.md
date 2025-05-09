@@ -1,2 +1,3 @@
 ## Chapter One - Leighton introduces himself
-I forgot to do a pull xd
+
+Leighton gave his name, experience and gave an overview of the course.
